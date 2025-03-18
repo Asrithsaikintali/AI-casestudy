@@ -1,4 +1,6 @@
-# CASE STUDY
+# CASE STUDY: HOGWARTS
+
+Asrith Sai - VU22CSEN0100909
 
 ## 1. Problem Description and Explanation
 
