@@ -1,4 +1,4 @@
-# Internal Lab Examination Writeup
+# CASE STUDY
 
 ## 1. Problem Description and Explanation
 
